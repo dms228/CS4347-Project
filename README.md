@@ -1,2 +1,2 @@
 # CS4347-Project
-CS 4347 |  Yan Yan | Final Project
+The repository for the final project code for CS 4347.
