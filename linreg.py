@@ -12,7 +12,7 @@ data_path = "data\pulsar_stars.csv" # or load the dataset directly from the link
 
 data = pd.read_csv(data_path, index_col=0)
 
-feature_names = ['Mean', 'Standard', 'Excess']
+feature_names = ['Standard', 'Excess', 'Skewness']
 
 X = data[feature_names]
 
